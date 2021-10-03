@@ -10,3 +10,5 @@
 
  
 </div>
+  
+  ![Snake animation](https://github.com/fernandorizzato/fernandorizzato/blob/output/github-contribution-grid-snake.svg)
