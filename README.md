@@ -12,3 +12,8 @@
 </div>
   
   ![Snake animation](https://github.com/fernandorizzato/fernandorizzato/blob/output/github-contribution-grid-snake.svg)
+
+  ## Total de Visitas no perfil :detective: <br>
+<p align="center"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/fernandoRizzato/count.svg" />
+</p>
